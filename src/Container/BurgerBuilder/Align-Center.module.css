@@ -1,0 +1,27 @@
+.align{
+
+    text-align: center;
+ 
+  
+}
+.aux{
+
+  display: -ms-inline-grid;
+
+}
+
+.burger{
+  padding-top: 30px;
+ 
+}
+
+.e{
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 5rem;
+  margin : auto;
+  padding-top: 70px;
+  height: 360px;
+
+}
